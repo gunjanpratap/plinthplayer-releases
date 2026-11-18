@@ -18,11 +18,45 @@
 - 📀 **Extensive Format Support** — FLAC, WAV, DSD, ALAC, AIFF, MP3, Opus and more.
 - 📚 **Music Library** — Automatic scanning, metadata, artwork, playlists and search.
 - 🎵 **Gapless Playback** — Seamless transitions, including across sample-rate changes when the stream can remain open.
-- 🎛️ **ReplayGain** — Loudness analysis, tag writing and playback normalization.
+- 🎛️ **ReplayGain** — Loudness analysis, tag writing and playback normalisation.
 - 🌐 **Online Music Information** — Artist biographies, album details, credits and artwork.
 - 📥 **Music Discovery** — Browse and download audio from Telegram and the Internet Archive.
 - 🎨 **Premium Interface** — Dark and Light themes, immersive Now Playing and audio visualizers.
 - 🔒 **Privacy First** — No analytics, telemetry or background data collection.
+
+---
+
+## 📥 Download Plinth
+
+**Experience bit-perfect music playback on Windows.**
+
+<kbd>Latest Stable Release: v0.13.2</kbd>
+
+<p align="center">
+  <a href="https://github.com/gunjanpratap/plinthplayer-releases/releases/latest">
+    <img src="https://img.shields.io/badge/Download_for_Windows-Latest_Release-7655E8?style=for-the-badge&logo=windows&logoColor=white" alt="Download Plinth for Windows">
+  </a>
+</p>
+
+### Latest Release — v0.13.2
+
+- Crash-safe ReplayGain tag writing.
+- Fixed Hindi and Indic script rendering.
+- Improved interface text and usability.
+- LICENSE file included in installer.
+
+**Installation**
+
+1. Download the latest Windows installer.
+2. Run the `.exe` file.
+3. Follow the installation instructions.
+4. Launch Plinth and enjoy your music.
+
+**System:** Windows
+
+**Release history:** [View all Plinth releases](https://github.com/gunjanpratap/plinthplayer-releases/releases)
+
+**Checksums:** SHA-256 verification is provided for installer integrity.
 
 ---
 
