@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="hero-banner.png"
+       alt="Plinth Music Player"
+       width="100%">
+</p>
+
 # Plinth — Bit-Perfect Music Player for Windows
 
 **Plinth** is a high-fidelity desktop music player for Windows, designed for listeners who care about sound quality, playback accuracy, and control over their audio signal path.
