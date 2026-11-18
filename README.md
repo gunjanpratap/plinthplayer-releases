@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="hero-banner.png"
+  <img src="Assets/hero-banner.png"
        alt="Plinth Music Player"
        width="100%">
 </p>
@@ -27,49 +27,49 @@
 ---
 
 <p align="center">
-  <img src="homescreen.png"
+  <img src="Assets/homescreen.png"
        alt="Homescreen"
        width="100%">
 </p>
 
 <p align="center">
-  <img src="now-playing.png"
+  <img src="Assets/now-playing.png"
        alt="NowPlaying"
        width="100%">
 </p>
 
 <p align="center">
-  <img src="source-telegram.png"
+  <img src="Assets/source-telegram.png"
        alt="Telegram"
        width="100%">
 </p>
 
 <p align="center">
-  <img src="source-discover.png"
+  <img src="Assets/source-discover.png"
        alt="Discover"
        width="100%">
 </p>
 
 <p align="center">
-  <img src="signal-path.png"
+  <img src="Assets/signal-path.png"
        alt="Signal Path"
        width="100%">
 </p>
 
 <p align="center">
-  <img src="equalizer.png"
+  <img src="Assets/equalizer.png"
        alt="Equalizer"
        width="100%">
 </p>
 
 <p align="center">
-  <img src="sound.png"
+  <img src="Assets/sound.png"
        alt="Sound"
        width="100%">
 </p>
 
 <p align="center">
-  <img src="settings.png"
+  <img src="Assets/settings.png"
        alt="Settings"
        width="100%">
 </p>
