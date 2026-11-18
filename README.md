@@ -26,6 +26,44 @@
 
 ---
 
+<p align="center">
+  <img src="homescreen.png"
+       alt="Homescreen"
+       width="100%">
+</p>
+
+<p align="center">
+  <img src="source-telegram.png"
+       alt="Telegram"
+       width="100%">
+</p>
+
+<p align="center">
+  <img src="source-discover.png"
+       alt="Discover"
+       width="100%">
+</p>
+
+<p align="center">
+  <img src="equalizer.png"
+       alt="Equalizer"
+       width="100%">
+</p>
+
+<p align="center">
+  <img src="sound.png"
+       alt="Sound"
+       width="100%">
+</p>
+
+<p align="center">
+  <img src="settings.png"
+       alt="Settings"
+       width="100%">
+</p>
+
+---
+
 ## 📥 Download Plinth
 
 **Experience bit-perfect music playback on Windows.**
