@@ -33,6 +33,12 @@
 </p>
 
 <p align="center">
+  <img src="now-playing.png"
+       alt="NowPlaying"
+       width="100%">
+</p>
+
+<p align="center">
   <img src="source-telegram.png"
        alt="Telegram"
        width="100%">
@@ -41,6 +47,12 @@
 <p align="center">
   <img src="source-discover.png"
        alt="Discover"
+       width="100%">
+</p>
+
+<p align="center">
+  <img src="signal-path.png"
+       alt="Signal Path"
        width="100%">
 </p>
 
